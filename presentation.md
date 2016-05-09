@@ -15,7 +15,7 @@
 ## Me
 
 - [Miguel Sánchez de León Peque](https://www.linkedin.com/in/peque)
-  msanchez@opensistemas.com
+  msdeleon@opensistemas.com
 - **Industrial engineer**
 - Passion for **programming, data and ML**
 - Met **Python** about 2 years ago
@@ -379,7 +379,7 @@ if __name__ == '__main__':
 - [Fernando Monera Daroqui](https://www.linkedin.com/in/monera)
 *fmonera@opensistemas.com*
 - [Miguel Sánchez de León Peque](https://www.linkedin.com/in/peque)
-  *msanchez@opensistemas.com*
+  *msdeleon@opensistemas.com*
 - [www.opensistemas.com](www.opensistemas.com)
 - [robintradinghub.com](http://robintradinghub.com/)
 - [blog.opensistemas.com](http://blog.opensistemas.com/)
