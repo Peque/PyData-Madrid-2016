@@ -1,7 +1,7 @@
 ![PyData_logo](http://pydata.org/madrid2016/static/images/pydata-logo-madrid-2016.png)
 
 ## SUNDAY 13:00–13:45
-# [Python for developing a real-time automated trading platform](https://peque.github.io/PyData-Madrid-2016/)
+# [Python for developing a real-time automated trading platform](https://www.youtube.com/watch?v=QkptVjmT_CA)
 
 ### MIGUEL SÁNCHEZ DE LEÓN PEQUE
 #### Audience level: Experienced
@@ -11,5 +11,6 @@ Nowadays Python is the perfect environment for developing a real-time automated 
 
 ## Links
 
-- [Presentation](https://peque.github.io/PyData-Madrid-2016/)
-- [Talk proposal](http://pydata.org/madrid2016/schedule/presentation/11/)
+- [Talk](https://www.youtube.com/watch?v=QkptVjmT_CA)
+- [Slides](https://peque.github.io/PyData-Madrid-2016/)
+- [Proposal](http://pydata.org/madrid2016/schedule/presentation/11/)
