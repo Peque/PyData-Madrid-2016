@@ -31,7 +31,7 @@
 
 ## Cons
 
-- Propietary
+- Proprietary
 - Heavily desktop oriented
 - Linux support?
 - Can I use Python to create my strategies?
